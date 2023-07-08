@@ -2,18 +2,31 @@
 # Packages/Library I have used:
 
 cupertino_icons: ^1.0.5
+
 get: 4.6.5
+
 http: ^0.13.5
+
 shimmer: ^2.0.0
+
 flutter_staggered_animations: ^1.1.1
+
 jwt_decoder: ^2.0.1
+
 intl: ^0.17.0
+
 get_storage: ^2.0.3
+
 animated_text_kit: ^4.2.2
+
 hive: ^2.2.3
+
 hive_flutter: ^1.1.0
+
 uuid: ^3.0.7
+
 flutter_spinkit: ^5.1.0
+
 lottie: ^2.2.0
 
 flutter_lints: ^2.0.0
@@ -41,8 +54,11 @@ Stored user's info into storage
 log out
 
 Getx CLI
+
 MVC pattern
+
 Repository pattern
+
 local database
 
 Here is the link of apk:
